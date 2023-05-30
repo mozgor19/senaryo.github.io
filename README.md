@@ -1,1 +1,2 @@
-# senaryo.github.io
+🤠 Yapay Zeka ile Senaryo Oluşturma
+
